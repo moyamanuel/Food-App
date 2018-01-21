@@ -1,0 +1,24 @@
+{
+
+
+    "name": "food-pantry-project",
+    "description": "Help feed people whilst helping the environment",
+    "authors": [
+        {
+            "name": "Michael"
+        },
+        {
+            "name": "Manuel"
+        },
+        {
+            "name": "Harshit"
+        },
+        {
+            "name": "Pulkit"
+        }
+    ],
+    "require": {},
+
+
+  "autoload": {}
+}
